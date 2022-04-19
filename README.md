@@ -11,5 +11,4 @@
 ### Has 1 post point:
 #### http://host:port/contact that save contacts as object.
 #### { name: info, apellido: info, telefono: info } : object example
-
-![preview get server](images/get_Post.jpg)
+![imagen](https://user-images.githubusercontent.com/88356468/163908501-f8d96795-cccc-439a-9919-457f100aa24b.png)
